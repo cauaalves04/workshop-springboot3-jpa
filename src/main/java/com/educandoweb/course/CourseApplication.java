@@ -1,13 +1,13 @@
-package com.educandoweb.couse;
+package com.educandoweb.course;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CouseApplication {
+public class CourseApplication {
 
 	public static void main(String[] args) {
-        SpringApplication.run(CouseApplication.class, args);
+        SpringApplication.run(CourseApplication.class, args);
 
 
 
